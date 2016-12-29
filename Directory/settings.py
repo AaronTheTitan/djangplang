@@ -25,7 +25,9 @@ SECRET_KEY = '#ee(r8x58_a)z2#-6^#!g=(pd3=$3a)0x97daqq3c)d)t3$t(e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'quiet-escarpment-12882.herokuapp.com'
+]
 
 
 # Application definition
